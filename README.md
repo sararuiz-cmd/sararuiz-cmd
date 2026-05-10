@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="assets/hola_soy_sara_ruiz_banner.png.png" alt="Hola, soy Sara Ruiz" width="100%" />
+  <img src="assets/maroon_splash_with_handwritten_script_logo.png" alt="Hola, soy Sara Ruiz" width="100%" />
   <br>
-  <img src="assets/pincel_animado.svg.svg" alt="Pincel animado" width="75%" />
+  <img src="assets/pincel_animado.svg" alt="Pincel animado" width="65%" />
 </div>
 
 <div align="center">
   <h3><i>Estudiante de Ingeniería en Sistemas | Java, C# & Redes</i></h3>
   <p><i>Aprendiendo, construyendo y mejorando proyectos tecnológicos paso a paso.</i></p>
-</div>
 
-  <a href="mailto:sararuiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sararuiz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-7B1E3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
+</div>
 
 ---
 
@@ -23,7 +23,7 @@
 * 🌐 También estoy fortaleciendo mis conocimientos en **redes informáticas** y conectividad.
 * 🚀 Me gusta crear proyectos usando **Java**, **C#** y **Windows Forms**.
 * 📚 Actualmente practico estructuras **CRUD**, interfaces, servicios, validaciones y lógica de negocio.
-* 🎯 Mi objetivo es seguir creciendo como futura profesional en tecnología y prepararme para oportunidades laborales en desarrollo, ciberseguridad y tecnologia de redes.
+* 🎯 Mi objetivo es seguir creciendo como futura profesional en tecnología y prepararme para oportunidades laborales en desarrollo, soporte o infraestructura TI.
 
 ---
 
@@ -49,8 +49,8 @@
   <summary>🌐 <b>Redes y aprendizaje técnico</b></summary>
   <br>
   <div align="center">
-    <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Networking-0f172a?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-7B1E3A?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Networking-7B1E3A?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </div>
 </details>
 
@@ -82,6 +82,8 @@
   <i>«Aprendiendo tecnología con disciplina, práctica y pasión por crear soluciones útiles.»</i>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" />
+  <img src="assets/flowing_burgundy_waves_on_dark_backdrop.png" alt="Decoración rojo vino" width="100%" />
 </div>
