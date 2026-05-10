@@ -33,7 +33,7 @@
   <summary>💻 <b>Lenguajes de programación</b></summary>
   <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,html" />
+    <img src="https://skillicons.dev/icons?i=java,cs,html,python" />
   </div>
 </details>
 
