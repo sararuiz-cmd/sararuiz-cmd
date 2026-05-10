@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Hola,%20soy%20Sara%20Ruiz!%20%F0%9F%91%8B&fontSize=48&fontAlignY=36&animation=fadeIn&fontColor=ffffff" />
+</div>
 
-<!--
-**sararuiz-cmd/sararuiz-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Estudiante de Ingeniería en Sistemas | Java, C# & Redes</h3>
+  <p>Aprendiendo, construyendo y mejorando proyectos tecnológicos paso a paso.</p>
 
-Here are some ideas to get you started:
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+### 👩‍💻 Sobre mí
+
+* 🎓 Soy estudiante de **Ingeniería en Sistemas**, actualmente en **segundo año**.
+* 💻 Me interesa el **desarrollo de software**, la **programación orientada a objetos** y la creación de soluciones prácticas.
+* 🌐 También estoy fortaleciendo mis conocimientos en **redes informáticas** y conectividad.
+* 🚀 Me gusta crear proyectos usando **Java**, **C#** y **Windows Forms**.
+* 📚 Actualmente practico estructuras **CRUD**, interfaces, servicios, validaciones y lógica de negocio.
+* 🎯 Mi objetivo es seguir creciendo como futura profesional en tecnología y prepararme para oportunidades laborales en desarrollo, soporte o infraestructura TI.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<details open>
+  <summary>💻 <b>Lenguajes de programación</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=java,cs,html,css" />
+  </div>
+</details>
+
+<details open>
+  <summary>⚙️ <b>Herramientas y entornos</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,idea" />
+  </div>
+</details>
+
+<details open>
+  <summary>🌐 <b>Redes y aprendizaje técnico</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Networking-0f172a?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  </div>
+</details>
+
+---
+
+### 📌 Actualmente aprendiendo
+
+* Programación orientada a objetos con **Java**.
+* Desarrollo de aplicaciones de escritorio con **C# Windows Forms**.
+* Validaciones, interfaces, servicios y lógica de negocio.
+* Fundamentos de redes con herramientas como **Cisco Packet Tracer**.
+* Buenas prácticas con **Git y GitHub**.
+
+---
+
+### 🌟 Proyecto destacado
+
+> Proyecto académico en el que aplico lo que voy aprendiendo:
+
+* ⚡ **Sistema de facturación energética en C#**  
+  Aplicación de escritorio desarrollada con **Windows Forms** para registrar, buscar y analizar facturas de consumo energético.  
+  Este proyecto integra lógica de negocio, validaciones, manejo de formularios, organización por clases y generación de reportes.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="50%" />
+</div>
+
+---
+
+<div align="center">
+  <i>«Aprendiendo tecnología con disciplina, práctica y pasión por crear soluciones útiles.»</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" />
+</div>
