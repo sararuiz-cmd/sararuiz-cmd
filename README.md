@@ -6,7 +6,7 @@
   <h3>Estudiante de Ingeniería en Sistemas | Java, C# & Redes</h3>
   <p>Aprendiendo, construyendo y mejorando proyectos tecnológicos paso a paso.</p>
 
-  <a href="sararuiz@gmail.com">
+  <a href="mailto:sararuiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -72,17 +72,6 @@
   Este proyecto integra lógica de negocio, validaciones, manejo de formularios, organización por clases y generación de reportes.
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="50%" />
-</div>
 
 ---
 
