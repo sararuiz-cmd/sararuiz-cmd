@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Hola,%20soy%20Sara%20Ruiz!%20%F0%9F%91%8B&fontSize=48&fontAlignY=36&animation=fadeIn&fontColor=ffffff" />
+  <img src="assets/hola_soy_sara_ruiz_banner.png.png" alt="Hola, soy Sara Ruiz" width="100%" />
+  <br>
+  <img src="assets/pincel_animado.svg.svg" alt="Pincel animado" width="75%" />
 </div>
 
 <div align="center">
-  <h3>Estudiante de Ingeniería en Sistemas | Java, C# & Redes</h3>
-  <p>Aprendiendo, construyendo y mejorando proyectos tecnológicos paso a paso.</p>
+  <h3><i>Estudiante de Ingeniería en Sistemas | Java, C# & Redes</i></h3>
+  <p><i>Aprendiendo, construyendo y mejorando proyectos tecnológicos paso a paso.</i></p>
+</div>
 
   <a href="mailto:sararuiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
