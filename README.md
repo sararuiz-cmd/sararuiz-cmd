@@ -76,7 +76,6 @@
 
 ---
 
----
 
 <div align="center">
   <i>«Aprendiendo tecnología con disciplina, práctica y pasión por crear soluciones útiles.»</i>
