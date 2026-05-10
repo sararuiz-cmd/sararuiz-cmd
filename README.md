@@ -6,18 +6,10 @@
   <h3>Estudiante de Ingeniería en Sistemas | Java, C# & Redes</h3>
   <p>Aprendiendo, construyendo y mejorando proyectos tecnológicos paso a paso.</p>
 
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="sararuiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
 ---
 
@@ -28,7 +20,7 @@
 * 🌐 También estoy fortaleciendo mis conocimientos en **redes informáticas** y conectividad.
 * 🚀 Me gusta crear proyectos usando **Java**, **C#** y **Windows Forms**.
 * 📚 Actualmente practico estructuras **CRUD**, interfaces, servicios, validaciones y lógica de negocio.
-* 🎯 Mi objetivo es seguir creciendo como futura profesional en tecnología y prepararme para oportunidades laborales en desarrollo, soporte o infraestructura TI.
+* 🎯 Mi objetivo es seguir creciendo como futura profesional en tecnología y prepararme para oportunidades laborales en desarrollo, ciberseguridad y tecnologia de redes.
 
 ---
 
